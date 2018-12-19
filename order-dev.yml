@@ -69,7 +69,7 @@ mybatis-plus:
     call-setters-on-nulls: true
 
 env:
-  dev1
+  dev2
 girl:
   name: lili
-  age: 20
+  age: 22
