@@ -66,4 +66,4 @@ mybatis-plus:
     jdbc-type-for-null: 'null'
 girl: 
     age: 18
-    cup: 36G
+    cup: 36D
